@@ -1,6 +1,6 @@
-## Quick Start
+git commit## Quick Start
 
-This section describes how to run YCSB on MongoDB. 
+This section shows how to run YCSB against NodeJS and MongoDB. 
 
 ### Run the tests against Node and MongoDB instance
 
