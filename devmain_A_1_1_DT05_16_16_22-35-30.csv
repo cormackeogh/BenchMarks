@@ -1,0 +1,10 @@
+configName,workload,threads,target,actualTput,actualTput Total,averageLatency,operation,numOperations,minLatency,maxLatency,percentile95Latency,percentile99Latency
+devmain,WrtConcern1,1,1,0.9845588355950837,0.9845588355950837,63258.19642857143,READ,56.0,30615.0,369373.0,158.0,369.0
+devmain,WrtConcern1,1,1,0.9845588355950837,0.9845588355950837,150661.0,CLEANUP,4.0,9159.0,315194.0,315.0,315.0
+Workload:   D
+Scenario:   2
+Description:   dsfsdfsd
+Server:   http://devmain.rowcatcher.com:3000/BenchmarkSrv
+MongoDBServer:   mongodb://rcdevmain.cloudapp.net:27018/myCoachDB?w=0
+Records:   100000
+Run iteration time:   60

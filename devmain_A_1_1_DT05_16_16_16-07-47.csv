@@ -1,0 +1,2 @@
+configName,workload,threads,target,actualTput,actualTput Total,averageLatency,operation,numOperations,minLatency,maxLatency,percentile95Latency,percentile99Latency
+CurrentScenarion.txt  

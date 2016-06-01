@@ -1,0 +1,6 @@
+configName,workload,threads,target,actualTput,actualTput Total,averageLatency,operation,numOperations,minLatency,maxLatency,percentile95Latency,percentile99Latency
+Workload:   D
+Server:   http://devmain.rowcatcher.com:3000/BenchmarkSrv
+MongoDBServer:   mongodb://rcdevmain.cloudapp.net:27018/myCoachDB?w=0
+Records:   100000
+Run iteration time:   60
